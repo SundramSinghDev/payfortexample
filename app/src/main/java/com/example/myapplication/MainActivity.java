@@ -35,6 +35,7 @@ import java.util.Map;
 
 public class MainActivity extends AppCompatActivity {
 
+    //TODO Kndly relace the merchantID, accessCode, SHARequestPhrase and SHAResponsePhrase with your credentials because these details are the client details
     private String merchantID = "VONAagIF";
     private String accessCode = "SJfOunz2YauoKE2LLwGy";
     private String SHARequestPhrase = "SwsgCo2018";
